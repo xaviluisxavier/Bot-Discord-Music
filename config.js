@@ -1,10 +1,10 @@
 module.exports = {
-TOKEN: 'MTA3MTE2NjUxNDMwMjAyNTg3OA.Gz2_EC.4QxjS8oHtcSk7LxaVq1I0n6PRCWvgrmmi7nxUE',
-ownerID: ["388748017995481089"], //write your discord user id. example: ["id"] or ["id1","id2"]
+TOKEN: '',
+ownerID: [""], //write your discord user id. example: ["id"] or ["id1","id2"]
 botInvite: "", //write your discord bot invite.
 supportServer: "", //write your discord bot support server invite.
-mongodbURL: 'mongodb+srv://xavi:Benfica04@cluster0.0quxn99.mongodb.net/?retryWrites=true&w=majority', //write your mongodb url.
-status: '❤️ Use /help astroélindo.me',
+mongodbURL: '', //write your mongodb url.
+status: '❤️ Use /help',
 commandsDir: './commands', //Please don't touch
 language: "pt", //en, tr, nl, pt, fr, ar, zh_TW, it
 embedColor: "ffa954", //hex color code
